@@ -35,3 +35,15 @@ Dirección y mapa del evento.
 ## Enlaces
 
 [GitHub](https://github.com/)
+
+
+## Cómo ejecutar el proyecto
+
+1. Descarga o clona este repositorio.
+2. Abre la carpeta del proyecto en Visual Studio Code.
+3. Abre el archivo `index.html` en tu navegador.
+4. Usa el menú para consultar la agenda, la inscripción y la ubicación del evento.
+
+## Estado del proyecto
+
+El proyecto contiene la información principal de la Hackatón ADSO 2026 y permite navegar entre sus secciones.
