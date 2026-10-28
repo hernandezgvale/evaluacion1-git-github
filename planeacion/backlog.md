@@ -40,3 +40,16 @@ Criterios de aceptación:
 - **Dado** que ingreso a la página, **cuando** consulto la sección "Ubicación", **entonces** puedo ver la dirección del lugar donde se realizará la Hackatón ADSO 2026.
 
 - **Dado** que estoy consultando la ubicación, **cuando** hago clic en el enlace al mapa, **entonces** se abre un mapa que me permite identificar cómo llegar al lugar del evento.
+
+
+---
+
+## Verificación de las historias de usuario
+
+Antes de entregar el proyecto, comprobar que:
+
+- [ ] HU-01: la agenda muestra al menos 3 actividades con sus horarios.
+- [ ] HU-02: la inscripción muestra el cupo, los requisitos y un enlace de contacto.
+- [ ] HU-03: la ubicación muestra la dirección y un enlace funcional al mapa.
+- [ ] Los enlaces del menú llevan a la sección correspondiente.
+- [ ] Las cuatro incidencias de GitHub están cerradas y en la columna Done del tablero.
